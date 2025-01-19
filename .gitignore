@@ -1,2 +1,7 @@
-# o ambiente virtual
-.venv/
+# o ambiente com as depedencias nao vai
+node_modules/
+
+# package lock das depedencias 
+package-lock.json
+
+
